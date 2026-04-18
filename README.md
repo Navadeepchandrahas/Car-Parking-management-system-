@@ -83,3 +83,33 @@ Screenshots of the program output are included in this repository for verificati
 - Only the last operation can be undone  
 - No data is stored after program exit  
 - Console-based application
+
+  ## ✨ Features  
+- Simple text-based interface  
+- Efficient parking slot management using linked list  
+- Undo functionality using stack  
+- Clear formatted output  
+- Basic error handling  
+- Demonstrates fundamental C programming and data structure concepts  
+
+## 🎓 Learning Outcomes  
+Students learn how to:
+- Write structured C code  
+- Use linked lists and stack concepts  
+- Handle user input  
+- Implement menu-driven programs  
+- Perform logical operations and data handling  
+- Document projects properly  
+- Upload and organize files in GitHub  
+
+## 📂 Files Included  
+- car_parking.c — C source code  
+- README.md — Documentation  
+- IMG_*.jpg — Output screenshot(s)  
+
+## 📝 Notes for Instructor  
+This repository contains:
+- A well-written single .c program file  
+- Program output screenshots  
+- A complete README with compilation and execution instructions  
+- A properly organized GitHub submission
