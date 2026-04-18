@@ -75,7 +75,7 @@ Slot 2: CAR2
 Slot 3: CAR3  
 
 ## 📸 Screenshots  
-Screenshots of the program output can be added here.
+Screenshots of the program output are included in this repository for verification.
 
 ## ⚠️ Assumptions  
 - Each car number is unique  
